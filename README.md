@@ -21,5 +21,3 @@
 </table>
 
 ![Dino](https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/dino.gif)
-
-![ItsMB's GitHub statistic](https://github-readme-stats.vercel.app/api?username=DevItsMB&show_icons=true)
