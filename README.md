@@ -38,4 +38,4 @@
   </tr>
 </table>
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=DevItsMB&show_icons=true" /></p>
