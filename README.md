@@ -34,11 +34,10 @@
 <table width="100%"> 
   <tr>
     <td><img src="https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/DiscordGif.gif" alt="Discord" /></td>
-    <td><img src="https://user-images.githubusercontent.com/624760/87853370-37690080-c901-11ea-8207-5ad27ce5f7b8.gif" alt="Github Swag" /></td>
+    <td><img src="https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/verified_developer_badge.png" alt="Discord Verified Dev Badge" /></td>
   </tr>
 </table>
 
 ![Dino](https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/dino.gif)
-
 
 ![ItsMB's GitHub statistic](https://github-readme-stats.vercel.app/api?username=DevItsMB&show_icons=true)
