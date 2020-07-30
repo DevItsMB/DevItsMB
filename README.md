@@ -1,4 +1,4 @@
-![DevItsMB](https://raw.githubusercontent.com/praveenscience/praveenscience/master/mast.png)[]
+![DevItsMB](https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/mast.png)[]
 
 <p align="center">I believe Open Source is for EVERYONE, yes YOU! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p>
 
