@@ -1,6 +1,6 @@
 ![DevItsMB](https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/master.png)[]
 
-<p align="center">I'm a Discord Bot Developer. Join me on my <a href="https://discord.gg/3GagbVQ">Discord Server</a> so we can geek out 🎥</p>
+<p align="center">I'm a Discord Bot Developer. Join me on my <a href="https://discord.gg/3GagbVQ">Discord Server</a> so we get in touch</p>
 
 <p align="center">Passionate for 
   <b> 
