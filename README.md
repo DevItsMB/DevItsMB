@@ -2,18 +2,6 @@
 
 <p align="center">I'm a Discord Bot Developer. Join me on my <a href="https://discord.gg/3GagbVQ">Discord Server</a> so we get in touch</p>
 
-<p align="center">Passionate for 
-  <b> 
-    <u><a href="https://twitter.com/hashtag/opensource/">#opensource </a></u> 
-    <u><a href="https://twitter.com/hashtag/code/">#code </a></u> 
-    <u><a href="https://twitter.com/hashtag/github/">#github </a></u> 
-    <u><a href="https://twitter.com/hashtag/remote/">#remote </a></u> 
-    <u><a href="https://twitter.com/hashtag/startup/">#startup </a></u>
-  </b> 
-  & 
-  <b> 
-     <u><a href="https://twitter.com/hashtag/inclusion/">#inclusion </a></u> 
-  </b>. 
  In the past I made many Discord Bots and gained experience coding Bots using JavaScript.</p>
 
 <p align="center">
