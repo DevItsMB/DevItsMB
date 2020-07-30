@@ -14,7 +14,7 @@
   <b> 
      <u><a href="https://twitter.com/hashtag/inclusion/">#inclusion </a></u> 
   </b>. 
-  In recent years I have trended on GitHub with the likes of Twitter, Facebook, Angular etc and was in the top 500 open source contributors in the world. As a senior software engineer, the more I learn, the more I realise how much I still need to learn.</p>
+ In the past I made many Discord Bots and gained experience coding Bots using JavaScript.</p>
 
 <p align="center">
   <a href="https://github.com/DevItsMB?tab=followers">
