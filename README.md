@@ -38,4 +38,7 @@
   </tr>
 </table>
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=DevItsMB&show_icons=true" /></p>
+![Dino](https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/dino.gif)
+
+
+![ItsMB's GitHub statistic](https://github-readme-stats.vercel.app/api?username=DevItsMB&show_icons=true)
