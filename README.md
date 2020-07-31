@@ -22,4 +22,4 @@
 
 ![Dino](https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/dino.gif)
 
-<img src="https://tenor.com/view/captcha-google-im-not-a-robot-gif-17752213"/>
+<img src="https://tenor.com/view/captcha-google-im-not-a-robot-gif-17752213" />
