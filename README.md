@@ -11,7 +11,7 @@
   <a href="https://discord.gg/3GagbVQ">
     <img src="https://img.shields.io/discord/738001087927287839?logo=discord&style=for-the-badge" />
   </a>
-</p>
+<p align="center">
 
 <table width="100%"> 
   <tr>
@@ -20,4 +20,6 @@
   </tr>
 </table>
 
+<p align="center">
 <img src="https://media1.tenor.com/images/f8448fef6f65d672657a1e5a91d68ba4/tenor.gif?itemid=17752213" />
+<p align="center">
