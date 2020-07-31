@@ -2,7 +2,7 @@
 
 <p align="center">I'm a Discord Bot Developer. Join me on my <a href="https://discord.gg/3GagbVQ">Discord Server</a> so we get in touch</p>
 
- In the past I made many Discord Bots and gained experience coding Bots using JavaScript.</p>
+ <p>In the past I made many Discord Bots and gained experience coding Bots using JavaScript.</p>
 
 <p align="center">
   <a href="https://github.com/DevItsMB?tab=followers">
