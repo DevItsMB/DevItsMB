@@ -1,6 +1,6 @@
 ![DevItsMB](https://raw.githubusercontent.com/DevItsMB/DevItsMB/master/master.png)
 
-<p align="center">I'm a Discord Bot Developer. Join me on my <a href="https://discord.gg/3GagbVQ">Discord Server</a> so we get in touch</p>
+<p align="center">I'm a Discord Bot Developer. Join me on my <a href="https://discord.gg/QYcu3Pz">Discord Server</a> so we get in touch</p>
 
  <p align="center">In the past I made many Discord Bots and gained experience coding Bots using JavaScript.</p>
 
@@ -8,7 +8,7 @@
   <a href="https://github.com/DevItsMB?tab=followers">
     <img src="https://img.shields.io/github/followers/DevItsMB?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://discord.gg/3GagbVQ">
+  <a href="https://discord.gg/QYcu3Pz">
     <img src="https://img.shields.io/discord/738001087927287839?logo=discord&style=for-the-badge" />
   </a>
 <p align="center">
