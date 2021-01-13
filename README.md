@@ -8,8 +8,8 @@
   <a href="https://github.com/DevItsMB?tab=followers">
     <img src="https://img.shields.io/github/followers/DevItsMB?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://discord.gg/QYcu3Pz">
-    <img src="https://img.shields.io/discord/627232712960507927?logo=discord&style=for-the-badge" />
+  <a href="https://discord.gg/yZJ2pBfJhX">
+    <img src="https://img.shields.io/discord/792390187958140948?logo=discord&style=for-the-badge" />
   </a>
 <p align="center">
 
